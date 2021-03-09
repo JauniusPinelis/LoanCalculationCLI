@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "LoanCalculation.Launcher": {
+      "commandName": "Project",
+      "commandLineArgs": "500000 10"
+    }
+  }
+}
