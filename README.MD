@@ -1,4 +1,4 @@
-# Loan Calculation CLI
+# Loan Calculation CLI 
 
 ## Description
 
