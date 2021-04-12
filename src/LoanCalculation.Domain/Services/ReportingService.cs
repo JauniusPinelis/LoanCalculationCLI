@@ -15,9 +15,9 @@ namespace LoanCalculation.Domain.Services
 
         public string GeneratePaymentOverview(LoanParameterDtos loanParamaters)
         {
-            var generatedLoanInfo = _loanCalculationService.GenerateLoanInfo(loanParamaters);
+            //var generatedLoanInfo = _loanCalculationService.GenerateLoanInfo(loanParamaters);
 
-            return "";
+            return generatedLoanInfo.ToString();
         }
     }
 }
